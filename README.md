@@ -1,13 +1,28 @@
-<!-- Profile Header Banner -->
+<!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hey%20there!%20I'm%Tanishq👋&fontSize=30&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20profile&descAlignY=50&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFEAD8,50:FFD8D8,100:E8988A&height=160&section=header&text=SoultySprings&fontSize=35&fontAlignY=40" />
 </p>
 
-### 👨‍💻 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&vCenter=true&multiline=true&width=700&height=80&lines=GenAI+Engineer+%7C+Machine+Learning+%7C+Data+Science;LLMs+%7C+LangChain+%7C+NLP+%7C+Prompt+Engineering+%7C+Python" />
+</p>
+
+---
+
+### 👋 Who Am I?
 
 ```yaml
 Name: Tanishq 
-📍 Location: India
-🎓 ECE Undergrad | Embedded Systems & AI Enthusiast
-💼 Passionate about Software, AI Agents, and Web Systems
-🔍 Exploring: System Design, LLM Agents, Python Automation
+Role: Gen AI / Machine Learning / Data Science Enthusiast
+Location: India 🇮🇳
+Background: Final Year B.Tech in Electronics & Communication Engineering
+Interests:
+  - Foundation Models & Retrieval-Augmented Generation (RAG)
+  - LangChain / LlamaIndex AI Agents
+  - Deep Learning & Transformers
+  - Real-time LLM-driven automation
+Career Goal: Become a GenAI/ML Engineer working at the intersection of AI + Systems
+```
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SoultySprings&show_icons=true&theme=radical" height="180px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoultySprings&layout=compact&theme=radical" height="180px"/> </p>
+
+<p align="center"> <a href="mailto:gamerexprt@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/tanishq-c-62546b282/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"/></a> <a href="https://github.com/SoultySprings"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/></a> </p>
