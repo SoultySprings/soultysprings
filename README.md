@@ -20,10 +20,10 @@ Career Goal: Become a GenAI/ML Engineer working at the intersection of AI + Syst
 ```
 <p align="center"> 
 <a href="https://github-readme-stats.vercel.app/api?username=soultysprings&show_icons=true&theme=great-gatsby">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=soultysprings&show_icons=true&rank_icon=github&theme=great-gatsby" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=soultysprings&show_icons=true&rank_icon=github&theme=great-gatsby" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=soultysprings&show_icons=true&theme=great-gatsby&layout=compact">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soultysprings&show_icons=true&theme=great-gatsby&layout=compact&langs_count=8&card_width=320" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soultysprings&show_icons=true&theme=great-gatsby&layout=compact&langs_count=8&card_width=320" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/wakatime?username=ramendls&show_icons=true&theme=great-gatsby&layout=compact">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ramendls&show_icons=true&theme=great-gatsby&layout=compact&langs_count=8&card_width=320" />
