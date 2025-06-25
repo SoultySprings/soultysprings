@@ -28,7 +28,12 @@ Career Goal: Become a GenAI/ML Engineer working at the intersection of AI + Syst
 <a href="https://github-readme-stats.vercel.app/api/wakatime?username=ramendls&show_icons=true&theme=great-gatsby&layout=compact">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ramendls&show_icons=true&theme=great-gatsby&layout=compact&langs_count=8&card_width=320" />
 </a>
+
+  [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31njuocxvkfqsglehodott5ktrci)
+<br/>
+
 </p>
+
 
 
 
