@@ -19,8 +19,8 @@
 
 ### 👋 Who Am I?
 
-<img align="left" src="https://raw.githubusercontent.com/SoultySprings/PyProjects/master/Others/ezgif.com-effects.gif" width="22.5%" style="display:inline;"> 
-
+<!--<img align="left" src="https://raw.githubusercontent.com/SoultySprings/PyProjects/master/Others/ezgif.com-effects.gif" width="22.5%" style="display:inline;"> -->
+<img align="left" src="https://raw.githubusercontent.com/SoultySprings/PyProjects/master/Others/NocturneTattooStudioWebsiteUiDesignbyMariuszMitkowonDribbble-ezgif.com-video-to-gif-converter.gif" width="30%" style="display:inline;"> 
 
 ```yaml
 Name: Tanishq 
