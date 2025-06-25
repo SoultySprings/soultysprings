@@ -1,7 +1,3 @@
-<!-- Header -->
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=SoultySprings&theme=merko)](https://git.io/streak-stats)
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&vCenter=true&multiline=true&width=700&height=80&lines=GenAI+Engineer+%7C+Machine+Learning+%7C+Data+Science;LLMs+%7C+LangChain+%7C+NLP+%7C+Prompt+Engineering+%7C+Python" />
 </p>
@@ -22,8 +18,19 @@ Interests:
   - Real-time LLM-driven automation
 Career Goal: Become a GenAI/ML Engineer working at the intersection of AI + Systems
 ```
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SoultySprings&show_icons=true&theme=radical" height="180px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoultySprings&layout=compact&theme=radical" height="180px"/> </p>
+<p align="center"> 
+<a href="https://github-readme-stats.vercel.app/api?username=soultysprings&show_icons=true&theme=great-gatsby">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=soultysprings&show_icons=true&rank_icon=github&theme=great-gatsby" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=soultysprings&show_icons=true&theme=great-gatsby&layout=compact">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soultysprings&show_icons=true&theme=great-gatsby&layout=compact&langs_count=8&card_width=320" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/wakatime?username=ramendls&show_icons=true&theme=great-gatsby&layout=compact">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ramendls&show_icons=true&theme=great-gatsby&layout=compact&langs_count=8&card_width=320" />
+</a>
+</p>
 
-<!--
-<p align="center"> <a href="mailto:gamerexprt@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/tanishq-c-62546b282/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"/></a> <a href="https://github.com/SoultySprings"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/></a> </p>
--->
+
+
+<p align="center"> <a href="mailto:gamerexprt@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white"/></a> <a href="https://github.com/SoultySprings"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/></a> </p>
+
