@@ -1,10 +1,27 @@
+<img align="left" src="https://raw.githubusercontent.com/SoultySprings/PyProjects/master/Others/ezgif-56350aa4be65bd-ezgif.com-optimize.gif" width="25%" style="display:inline;"> <img align="right" src="https://raw.githubusercontent.com/SoultySprings/PyProjects/master/Others/ezgif-56350aa4be65bd-ezgif.com-optimize%20(1).gif" width="25%">
+<br>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&vCenter=true&multiline=true&width=700&height=80&lines=GenAI+Engineer+%7C+Machine+Learning+%7C+Data+Science;LLMs+%7C+LangChain+%7C+NLP+%7C+Prompt+Engineering+%7C+Python" />
+    <h1 align="center">👨‍💻 SoultySprings</h1>
 </p>
 
----
+
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Gen+AI+Engineer+%7C+Machine+Learning;Data+Science+%7C+LLMs+%7C+LangChain;NLP+%7C+Prompt+Engineering+%7C+Python&font=Fira%20Code&color=%23D62F79&width=420&height=50">
+</p>
+<br>
+<!--
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SoultySprings/PyProjects/master/Others/1_9zDKq-ibz14DUItLjldw0g.gif" width="75%" style="display:inline;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=22&pause=10&color=fea72a&vCenter=true&multiline=true&width=700&height=80&lines=Gen+AI+Engineer+%7C+Machine+Learning+%7C+Data+Science;LLMs+%7C+LangChain+%7C+NLP+%7C+Prompt+Engineering+%7C+Python">
+</p>
+-->
+<br>
+<br>
 
 ### 👋 Who Am I?
+
+<img align="left" src="https://raw.githubusercontent.com/SoultySprings/PyProjects/master/Others/ezgif.com-effects.gif" width="22.5%" style="display:inline;"> 
+
 
 ```yaml
 Name: Tanishq 
