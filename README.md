@@ -6,7 +6,7 @@
 
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Gen+AI+%7C+Data+Science+%7C+Full+Stack;Machine+Learning+%7C+LLMs+%7C+NLP;Prompt+Engineering+%7C+Python&font=Courier+Prime&color=fea72a&width=420&height=50&pause=10">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Gen+AI+%7C+Data+Science+%7C+Front+End;Machine+Learning+%7C+LLMs+%7C+NLP;Prompt+Engineering+%7C+Python&font=Courier+Prime&color=fea72a&width=420&height=50&pause=10">
 </p>
 <br>
 <!--
