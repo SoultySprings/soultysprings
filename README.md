@@ -6,8 +6,9 @@
 
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Gen+AI+%7C+Data+Science+%7C+Front+End;Machine+Learning+%7C+LLMs+%7C+NLP;Prompt+Engineering+%7C+Python&font=Courier+Prime&color=fea72a&width=420&height=50&pause=10">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Engineer+%7C+GenAI+Enthusiast;Java+SpringBoot+%7C+Python+ML+%7C+RAG;APIs+%7C+Automation+%7C+Systems+Design&font=Courier+Prime&color=fea72a&width=500&height=50&pause=10" />
 </p>
+
 <br>
 <!--
 <p align="center">
@@ -20,19 +21,36 @@
 ### 👋 Who Am I?
 
 <!--<img align="left" src="https://raw.githubusercontent.com/SoultySprings/PyProjects/master/Others/ezgif.com-effects.gif" width="22.5%" style="display:inline;"> -->
-<img align="left" src="https://raw.githubusercontent.com/SoultySprings/PyProjects/master/Others/NocturneTattooStudioWebsiteUiDesignbyMariuszMitkowonDribbble-ezgif.com-video-to-gif-converter.gif" width="30%" style="display:inline;"> 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/SoultySprings/portfolio/master/public/rsnvb.png" width=100%" style=""> 
+</div>
+
+
 
 ```yaml
-Name: Tanishq 
-Role: Gen AI / Machine Learning / Data Science Enthusiast
+Name: Tanishq Chakravarty
+Role: Backend Engineer | GenAI & ML Enthusiast
 Location: India
-Background: Final Year B.Tech in Electronics & Communication Engineering
+Background: Final Year B.Tech, Electronics & Communication Engineering
+About: 
+  Backend Java engineer passionate about microservices, APIs 🚀, and GenAI integration 🤖. Skilled in Java + Spring Boot systems and Python ML, building scalable, reliable, and intelligent apps at the AI + Systems intersection.
 Interests:
-  - Foundation Models & Retrieval-Augmented Generation (RAG)
-  - LangChain / LlamaIndex AI Agents
+  - GenAI: Foundation Models, RAG, LangChain, LlamaIndex
+  - Backend: Java, Spring Boot, REST APIs, Microservices
   - Deep Learning & Transformers
   - Real-time LLM-driven automation
-Career Goal: Become a GenAI/ML Engineer working at the intersection of AI + Systems
+  - Angular, TypeScript, Responsive SPAs
+Experience:
+  - Engineering Intern, Recruit CRM (Aug–Nov 2023)  
+    • Automated AI resume platform workflows, reducing manual review 30%  
+    • Built PHP/Laravel + MySQL PDF parsing module  
+    • Cut production errors 25% via Postman tests & JSON schema validation  
+    • Agile contributions sped delivery 20%  
+Achievements:
+  - Research published at SENNET 2025 on 5G/6G autonomous network control using PPO  
+    • Enabled 28 ms adaptive handovers, stable 59 dBm RSRP, improved QoS  
+Career Goal: GenAI/ML Engineer at the AI + Systems intersection, crafting scalable, intelligent services.
+
 ```
 
 <br>
